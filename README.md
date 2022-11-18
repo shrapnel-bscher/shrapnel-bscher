@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @shrapnel-bscher
-- 
+- [Shrapnel.com](https://shrapnel.com/)
+- [Discord.gg/Shrapnel](https://discord.gg/shrapnel)
